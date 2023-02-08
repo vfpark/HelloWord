@@ -6,7 +6,7 @@ public class HelloWord {
 		
 		System.out.println("Hello Word!");
 		System.out.println("Turma 61 é top!");
-	
+
 	}
 
 }
