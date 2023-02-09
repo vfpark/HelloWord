@@ -17,7 +17,7 @@ public class listaJava2 {
 		
 		media = (nota1+nota2+nota3+nota4)/4;
 		
-		System.out.println("A média fianal é: " + media);
+		System.out.println("A média final é: " + media);
 		
 
 	}
