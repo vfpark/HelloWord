@@ -18,7 +18,7 @@ public class If3 {
 		System.out.println("Primeira doação de sangue? ");
 		doacao = sc.nextBoolean();
 		
-		if (idade >= 18 && idade <= 59) {
+		if (idade >= 18 && idade <= 69) {
 		System.out.println(nome + " não está apto(a) para doar sangue.");
 		}
 		
