@@ -68,7 +68,7 @@ public void visualizar() {
 		System.out.println("Turno de trabalho: " + this.turno);
 		System.out.println("Cidade em que reside: " + this.cidade);
 		System.out.println("CEP: " + this.cep);
-		System.out.println("\n\n");
+		System.out.println("");
 	}
 
 }

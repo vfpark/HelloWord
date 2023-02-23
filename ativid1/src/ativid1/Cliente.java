@@ -17,6 +17,14 @@ public class Cliente {
 		this.telefone = telefone;
 			
 	}
+	
+	public Cliente(String nome, int id, int telefone) {
+		super();
+		this.nome = nome;
+		this.id = id;
+		this.telefone = telefone;
+	}
+	
 
 	public String getNome() {
 		return nome;
@@ -68,7 +76,7 @@ public void visualizar() {
 		System.out.println("RG: " + this.rg);
 		System.out.println("CPF: " + this.cpf);
 		System.out.println("Telefone para contato: " + this.telefone);
-		System.out.println("\n\n");
+		System.out.println("");
 	}
 	
 }
